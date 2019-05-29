@@ -1,0 +1,10 @@
+#include<stdio.h>              a = 2
+int main()                     b = 3 
+{           
+	int a = 2, b = 3;          c =  a + b 
+	int c;						
+								print(c) #For python version 3 
+	c = a  + b 				
+
+	printf("%d\n", c).          print c #For python verion 2
+}
